@@ -4,14 +4,14 @@
 #### Last name: Permyakov
 
 
-## About my
+## About me
 > Im originaly from smal town
 > and live on the sea 
 > Im study java and learning inglish
 - I like to study everything
 - I like sport
 
-## My contact
+## My contacts
 
 
 - [VK](https://vk.ru)
